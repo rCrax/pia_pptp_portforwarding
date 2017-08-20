@@ -1,2 +1,2 @@
-# pia_pptp_portforwarding
-Listen netcat in PPTP privateinternetaccess
+# PIA PPTP/VPN Port Forwarding
+Listen netcat/SSH in PPTP/VPN privateinternetaccess
